@@ -1,0 +1,23 @@
+body{
+    background-image:linear-gradient(to left,rgb(241, 207, 10),rgb(231, 35, 189),purple,rgb(19, 22, 201));
+    font-family: 'Mogra', cursive;
+    font-weight: bold;
+    font-size: 25px;
+    letter-spacing: 2px;
+    color:aliceblue;
+}
+p,b,label{
+    font-family: 'Mogra', cursive; 
+    font-weight: 200;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+b{
+    background-color: rgba(245, 245, 220, 0.966);
+    height:40px;
+    color: black;
+}
+#camera{
+    width:350px;
+    height:300px;
+}
